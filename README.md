@@ -1,2 +1,2 @@
-# MOOC
-Study Notes
+# Study Notes
+
