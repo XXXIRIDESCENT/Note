@@ -14,6 +14,6 @@ void H(int n, char a, char b, char c)
 int main()
 {
 	int n;
-	cin >> n; 
-  H(n, 'A', 'B', 'C');
+	cin >> n;
+	H(n, 'A', 'B', 'C');
 }
