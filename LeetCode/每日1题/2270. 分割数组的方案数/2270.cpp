@@ -10,7 +10,7 @@ public:
         long long rightTotal = accumulate(nums.begin(), nums.end(), 0LL);
         long long leftTotal = 0;
         int size = nums.size();
-        for (int i = 1; i < size - 1; ++i)
+        for (int i = 0; i < size - 1; ++i)
         {
             leftTotal += nums[i];
             rightTotal -= nums[i];
